@@ -1,10 +1,14 @@
-<h1 align="center">Hi there, I'm Surendra! 👋</h1>
+<h1 align="center">Hi there, I'm Surendra ! 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=blue&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+JavaScript%2C+React+%26+Node.js;Full+Stack+Developer+%7C+MERN+Stack" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img width="700" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
 </p>
 
 ---
@@ -27,10 +31,10 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img width="50" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png"/>
 </p>
 
 ### Technologies I Work With
@@ -55,9 +59,7 @@ Check out some of my favorite projects!
 
 | 🌐 Project Name | 📝 Description | 🔧 Technologies Used | 🔗 Link |
 |-----------------|----------------|----------------------|---------|
-| **Project 1**   | A full-stack web app with real-time features | MongoDB, Express, React, Node | [GitHub](#) |
-| **Project 2**   | An e-commerce platform with secure payment integration | MERN, Stripe API | [GitHub](#) |
-| **Project 3**   | A social media platform with real-time chat and notifications | MERN, Socket.io | [GitHub](#) |
+| **User Management System** | A full-stack web app with JWT Authentication | MongoDB, Express, React, Node | [GitHub](https://github.com/surujtv/UserManagementSystem) |
 
 ---
 
