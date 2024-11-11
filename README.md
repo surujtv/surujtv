@@ -20,10 +20,15 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-<img width="100" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<!-- <img src=""/> -->
-</p>
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![ReactJS](https://img.icons8.com/color/48/000000/react-native.png)
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 
 <p align="center">
 Other Technologies:
