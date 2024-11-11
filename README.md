@@ -21,16 +21,8 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img width="120" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png"/>
-  <img width="120" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
-  <img width="120" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"/>
-  <img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"/>
-  <img width="120" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
-  <img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
-  <img width="120" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" />
-  <img width="120" src="https://www.cdnlogo.com/logos/m/25/mongodb.svg" />
-  <img width="120" src="https://cdn.worldvectorlogo.com/logos/git.svg" />
-  <img width="120" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" />
+<img src="https://img.icons8.com/color/48/000000/html-5.png" />
+<!-- <img src=""/> -->
 </p>
 
 <p align="center">
