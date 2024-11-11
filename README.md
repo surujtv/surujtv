@@ -21,7 +21,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img width="200" src="https://cdn-icons-png.freepik.com/256/919/919827.png?semt=ais_hybrid"/>
+  <img width="100" src="https://cdn-icons-png.freepik.com/256/919/919827.png?semt=ais_hybrid"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
   <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"/>
