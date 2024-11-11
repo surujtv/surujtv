@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 - 👨‍💻 Full Stack Developer with a focus on **MERN Stack**
-- 📚 Lifelong learner, currently diving into **TypeScript** and **Cloud Technologies**
+- 📚 Lifelong learner, currently diving into **JavaScript** and **Web Development**
 - 🌐 Passionate about building impactful and accessible web applications
 - 🌱 Exploring new challenges and growing my skillset
 
@@ -21,10 +21,16 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="[https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/512/888/888859.png)"/>
+  <img src="[https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)"/>
+  <img src="[https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png)"/>
+  <img src="[https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png)"/>
+  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
+  <img src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" />
+  <img src="https://www.cdnlogo.com/logos/m/25/mongodb.svg" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" />
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" />
 </p>
 
 <p align="center">
