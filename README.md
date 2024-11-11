@@ -20,15 +20,20 @@
 
 ## 🛠️ Skills & Tools
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![ReactJS](https://img.icons8.com/color/48/000000/react-native.png)
-![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
+<p style="margin-block: 20px; width: 100%; display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="50" style="background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white"/>
+</p>
+
+### Technologies I Work With
 
 <p align="center">
 Other Technologies:
