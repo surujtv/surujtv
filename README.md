@@ -11,31 +11,31 @@
 
 ## 🌟 About Me
 
-- 👨‍💻 Full Stack Developer with a focus on **MERN Stack**
-- 📚 Lifelong learner, currently diving into **JavaScript** and **Web Development**
-- 🌐 Passionate about building impactful and accessible web applications
-- 🌱 Exploring new challenges and growing my skillset
+- 👨‍💻 Full Stack Developer specializing in **MERN Stack**
+- 📚 Lifelong learner, currently exploring **JavaScript** and **Web Development**
+- 🌐 Passionate about creating impactful and accessible web applications
+- 🌱 Always seeking new challenges to grow my skillset
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p style="margin-block: 20; display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="50" style="background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white"/>
+<p align="center">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 ### Technologies I Work With
 
-<p align="center">
+<p>
 Other Technologies:
 <br>
 ⚡ **Frontend**: HTML, CSS, JavaScript, Tailwind CSS <br>
@@ -61,7 +61,13 @@ Check out some of my favorite projects!
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Get in Touch
 
+- 💼 linkedIn: https://www.linkedin.com/in/surendra-jatav-157b03263/
+- 📧 Email: surendrajatav543@gmail.com
+- 🌐 Personal Website: https://suren-portfolio.netlify.app/
+
+---
 <p align="center">
-  <img src="
+  Thank you for visiting my profile! Feel free to reach out or connect with me.
+</p>
