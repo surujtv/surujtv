@@ -21,10 +21,10 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/200/888/888859.png)"/>
-  <img src="[https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)"/>
-  <img src="[https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png)"/>
-  <img src="[https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png)"/>
+  <img width="200" src="https://cdn-icons-png.freepik.com/256/919/919827.png?semt=ais_hybrid"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
+  <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"/>
   <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
   <img src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" />
