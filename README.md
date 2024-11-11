@@ -21,7 +21,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img width="100" src="[https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/512/888/888859.png)"/>
+  <img src="[https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/200/888/888859.png)"/>
   <img src="[https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)"/>
   <img src="[https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png)"/>
   <img src="[https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png)"/>
