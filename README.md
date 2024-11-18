@@ -44,9 +44,9 @@ Other Technologies:
 <br>
 ⚡ **Frontend**: HTML, CSS, JavaScript, Tailwind CSS <br>
 ⚡ **Backend**: Node.js, Express.js <br>
-⚡ **Databases**: MongoDB, MySQL <br>
+⚡ **Databases**: MongoDB <br>
 ⚡ **Version Control**: Git & GitHub <br>
-⚡ **Deployment**: Heroku, Netlify, AWS (basic)
+⚡ **Deployment**: Netlify, AWS (basic)
 </p>
 
 ---
